@@ -225,7 +225,6 @@ section {
     .home {
         background-position: 0%;
         background-size: cover;
-        transform: translateY(9%);
     }
     .home .info h1 {
         font-size: 3rem;
